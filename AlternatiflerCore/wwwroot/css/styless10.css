@@ -1,0 +1,35 @@
+a.col9 {border-color: #dadada;}
+a.col10 {border-color: #404040;}
+
+.ef-boxed-ver {
+	background: #f5f5f5;
+	padding: 1.875em 0;
+}
+
+.ef-boxed-ver #ef-top .row {
+	max-width: none!important;
+}
+
+.ef-boxed-ver #ef-top .columns {
+	padding: 0!important;
+}
+
+.ef-boxed-ver .ef-wrapper {
+	background-color: #fff;
+	margin: 0 auto;
+	max-width: 	63.125em;
+	-webkit-box-shadow:  0px 0px 15px 0px rgba(0, 0, 0, 0.1);	        
+	        box-shadow:  0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (min-width: 1681px) {
+	.ef-boxed-ver .ef-wrapper {
+		max-width: 69.162em;
+	}
+}
+
+@media only screen and (max-width: 58.7em) {
+	.ef-boxed-ver {
+		padding: 0;
+	}
+}

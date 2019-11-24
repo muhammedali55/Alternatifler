@@ -1,0 +1,103 @@
+/* theme changer */
+.theme-changer-wrap {
+	position: fixed;
+	z-index: 500;
+	top: 37px;
+	left: -152px;
+	font-size: 0.8em;
+}
+
+.theme-changer {
+	float: left;
+	background-color: #fff;
+	padding: 15px 20px;
+	-webkit-box-shadow:  0px 0px 1px 1px rgba(0, 0, 0, 0.1);	        
+	        box-shadow:  0px 0px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.changer-inner {
+	overflow:hidden;
+	width:110px
+}
+
+.theme-changer-wrap a {
+	float:left;
+	display:block;
+	margin-right:3px;
+	margin-bottom:3px;
+	width:24px;
+	height:24px;
+	border-width: 2px;
+	border-style: solid;
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+			border-radius: 3px;
+}
+
+a.color-themes {
+	cursor: pointer;
+}
+
+a.col1 {
+	background: #24c9c0;
+}
+
+a.col2 {
+	background: #71d361;
+}
+
+a.col3 {
+	background: #f5a04d;
+}
+
+a.col4 {
+	background: #e65b5b;
+}
+
+a.col5 {
+	background: #ea65b6;
+}
+
+a.col6 {
+	background: #7787d7;
+}
+
+a.col7 {
+	background: #46b0e6;
+}
+
+a.col8 {
+	background: #959595;
+}
+
+a.col9, a.col10 {
+	width: auto;
+	height: auto;
+	float: none;
+	line-height: 2em;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	margin-top: 10px;
+}
+
+.changer-inner span {
+	display: block;
+	margin-bottom: 15px
+}
+
+div.open-close-demo {
+	position: relative;
+	top: 19px;
+	left: -3px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	cursor: pointer;
+	background: url(../images/sett.png) transparent no-repeat left top;
+}
+
+div.open-close-demo.active-demo {
+	background-position: right top;
+}

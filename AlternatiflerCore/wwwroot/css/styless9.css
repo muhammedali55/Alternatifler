@@ -1,0 +1,40 @@
+a.col9 {border-color: #404040;}
+a.col10 {border-color: #dadada;}
+
+.ef-boxed-ver {
+	background: transparent;
+	padding: 0;
+}
+
+.ef-boxed-ver #ef-top .row {
+	max-width: 61.875em!important;
+}
+
+.ef-boxed-ver #ef-top .columns {
+	padding: 0 0.625em!important;
+}
+
+.ef-boxed-ver .ef-wrapper {
+	background: transparent;
+	margin: 0 auto;
+	max-width: 	none;
+	border: 0;
+	-webkit-box-shadow:  0 0 0 0;	        
+	        box-shadow:  0 0 0 0;
+}
+
+@media only screen and (min-width: 1681px) {
+	.ef-boxed-ver .ef-wrapper {
+		max-width: none;
+	}
+	
+	.ef-boxed-ver #ef-top .row {
+		max-width: 68em!important;
+	}
+}
+
+@media only screen and (max-width: 58.7em) {
+	.ef-boxed-ver {
+		padding: 0;
+	}
+}

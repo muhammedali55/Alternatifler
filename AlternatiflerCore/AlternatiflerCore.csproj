@@ -1,0 +1,151 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\1281140a-700d-40cc-8fae-a1ecb5cec9f3_42.png" />
+    <Content Remove="wwwroot\Images\231d75db-a02e-4236-8921-2d537328ef47_125.png" />
+    <Content Remove="wwwroot\Images\2d1f74e0-dbd5-4165-a67b-6661ee0e0b25_68.png" />
+    <Content Remove="wwwroot\Images\2d1f74e0-dbd5-4165-a67b-6661ee0e0b25_69.png" />
+    <Content Remove="wwwroot\Images\2d1f74e0-dbd5-4165-a67b-6661ee0e0b25_70.png" />
+    <Content Remove="wwwroot\Images\62ec2dd5-5961-4fdc-ad0f-9d3aae947dde_24.png" />
+    <Content Remove="wwwroot\Images\62ec2dd5-5961-4fdc-ad0f-9d3aae947dde_25.png" />
+    <Content Remove="wwwroot\Images\62ec2dd5-5961-4fdc-ad0f-9d3aae947dde_26.png" />
+    <Content Remove="wwwroot\Images\62ec2dd5-5961-4fdc-ad0f-9d3aae947dde_27.png" />
+    <Content Remove="wwwroot\Images\62ec2dd5-5961-4fdc-ad0f-9d3aae947dde_28.png" />
+    <Content Remove="wwwroot\Images\83774561-0f50-444c-9243-435a26a81be0_79.png" />
+    <Content Remove="wwwroot\Images\8859f779-6528-40f2-8789-349df85836b3_100.png" />
+    <Content Remove="wwwroot\Images\8859f779-6528-40f2-8789-349df85836b3_101.png" />
+    <Content Remove="wwwroot\Images\8859f779-6528-40f2-8789-349df85836b3_102.png" />
+    <Content Remove="wwwroot\Images\8859f779-6528-40f2-8789-349df85836b3_103gif" />
+    <Content Remove="wwwroot\Images\8859f779-6528-40f2-8789-349df85836b3_99.png" />
+    <Content Remove="wwwroot\Images\914f6e9e-9221-4e89-890d-bc51ac6d4ba0_73.png" />
+    <Content Remove="wwwroot\Images\914f6e9e-9221-4e89-890d-bc51ac6d4ba0_74.png" />
+    <Content Remove="wwwroot\Images\914f6e9e-9221-4e89-890d-bc51ac6d4ba0_75.png" />
+    <Content Remove="wwwroot\Images\914f6e9e-9221-4e89-890d-bc51ac6d4ba0_76.png" />
+    <Content Remove="wwwroot\Images\914f6e9e-9221-4e89-890d-bc51ac6d4ba0_77.png" />
+    <Content Remove="wwwroot\Images\914f6e9e-9221-4e89-890d-bc51ac6d4ba0_78.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_46.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_47.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_48.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_49.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_50.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_51.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_52.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_53.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_54.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_55.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_56.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_57.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_58.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_59.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_60.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_61.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_62.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_63.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_64.gif" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_65.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_66.png" />
+    <Content Remove="wwwroot\Images\a14c48c4-7e45-47d2-8a47-3d7bbd053a55_67.png" />
+    <Content Remove="wwwroot\Images\ad5267b0-e844-4998-95bb-21a2ff86df99_86.png" />
+    <Content Remove="wwwroot\Images\ad5267b0-e844-4998-95bb-21a2ff86df99_87.png" />
+    <Content Remove="wwwroot\Images\ad5267b0-e844-4998-95bb-21a2ff86df99_88.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_109.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_110.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_111.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_112.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_113.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_114.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_115.png" />
+    <Content Remove="wwwroot\Images\ba1feae4-b0bd-416b-84dc-8e154292582c_116.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_89.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_90.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_91.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_92.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_93.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_94.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_95.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_96.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_97.png" />
+    <Content Remove="wwwroot\Images\bb904a40-5f05-4964-b013-96decec48672_98.png" />
+    <Content Remove="wwwroot\Images\bca54eaf-350c-4662-bed1-6988b37395eb_80.png" />
+    <Content Remove="wwwroot\Images\bca54eaf-350c-4662-bed1-6988b37395eb_81.png" />
+    <Content Remove="wwwroot\Images\bca54eaf-350c-4662-bed1-6988b37395eb_82.png" />
+    <Content Remove="wwwroot\Images\bca54eaf-350c-4662-bed1-6988b37395eb_83.png" />
+    <Content Remove="wwwroot\Images\bca54eaf-350c-4662-bed1-6988b37395eb_84.png" />
+    <Content Remove="wwwroot\Images\bca54eaf-350c-4662-bed1-6988b37395eb_85.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_117.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_118.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_119.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_120.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_121.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_122.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_123.png" />
+    <Content Remove="wwwroot\Images\bfc370b4-7178-4898-a3c1-86af076d3149_124.png" />
+    <Content Remove="wwwroot\Images\c16b3a57-68db-444d-9a6d-86e5b3b0eabd_43.png" />
+    <Content Remove="wwwroot\Images\cb5665ba-fb01-4aaa-8550-9949595a6ed6_44.png" />
+    <Content Remove="wwwroot\Images\cb5665ba-fb01-4aaa-8550-9949595a6ed6_45.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_10.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_11.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_12.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_14.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_15.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_16.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_17.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_18.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_19.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_20.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_21.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_22.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_23.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_6.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_7.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_8.png" />
+    <Content Remove="wwwroot\Images\d7c7f6e6-0316-4f30-9cc6-b4ed137c424a_9.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_30.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_31.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_32.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_33.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_34.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_35.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_36.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_37.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_38.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_39.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_40.png" />
+    <Content Remove="wwwroot\Images\e33f5ac2-168f-480c-ab27-100a77c35c91_41.png" />
+    <Content Remove="wwwroot\Images\e72e8d45-45a6-4812-a517-63248222a108_71.png" />
+    <Content Remove="wwwroot\Images\e72e8d45-45a6-4812-a517-63248222a108_72.png" />
+    <Content Remove="wwwroot\Images\f8cae390-d768-46c6-8f6f-ab3225af54d2_29.png" />
+    <Content Remove="wwwroot\Images\fa0a7017-2fbe-43e1-b6f8-8630c07cd95a_104.png" />
+    <Content Remove="wwwroot\Images\fa0a7017-2fbe-43e1-b6f8-8630c07cd95a_105.png" />
+    <Content Remove="wwwroot\Images\fa0a7017-2fbe-43e1-b6f8-8630c07cd95a_106.png" />
+    <Content Remove="wwwroot\Images\fa0a7017-2fbe-43e1-b6f8-8630c07cd95a_107.png" />
+    <Content Remove="wwwroot\Images\fa0a7017-2fbe-43e1-b6f8-8630c07cd95a_108.png" />
+    <Content Remove="wwwroot\Images\fafa6e89-5592-4032-9b3a-b334b6384ae2_0.png" />
+    <Content Remove="wwwroot\Images\fafa6e89-5592-4032-9b3a-b334b6384ae2_1.png" />
+    <Content Remove="wwwroot\Images\fafa6e89-5592-4032-9b3a-b334b6384ae2_2.png" />
+    <Content Remove="wwwroot\Images\fafa6e89-5592-4032-9b3a-b334b6384ae2_3.png" />
+    <Content Remove="wwwroot\Images\fafa6e89-5592-4032-9b3a-b334b6384ae2_4.png" />
+    <Content Remove="wwwroot\Images\fafa6e89-5592-4032-9b3a-b334b6384ae2_5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="Views\Default\" />
+  </ItemGroup>
+
+</Project>

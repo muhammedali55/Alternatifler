@@ -1,0 +1,17 @@
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\appsettings.Development.json
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\appsettings.json
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\Properties\launchSettings.json
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\AlternatiflerCore.exe
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\AlternatiflerCore.deps.json
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\AlternatiflerCore.runtimeconfig.json
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\AlternatiflerCore.runtimeconfig.dev.json
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\AlternatiflerCore.dll
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\bin\Release\netcoreapp3.0\win-x64\AlternatiflerCore.pdb
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\staticwebassets\AlternatiflerCore.StaticWebAssets.Manifest.cache
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\staticwebassets\AlternatiflerCore.StaticWebAssets.xml
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\AlternatiflerCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\AlternatiflerCore.AssemblyInfoInputs.cache
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\AlternatiflerCore.AssemblyInfo.cs
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\AlternatiflerCore.RazorTargetAssemblyInfo.cache
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\AlternatiflerCore.dll
+C:\Users\Muham\OneDrive\Desktop\Altarnatif Web Site\AlternatiflerCore\AlternatiflerCore\obj\Release\netcoreapp3.0\win-x64\AlternatiflerCore.pdb
